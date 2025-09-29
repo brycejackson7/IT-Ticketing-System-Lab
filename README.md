@@ -1,5 +1,4 @@
 # IT-Ticketing-System-Lab
-IT Ticketing System simulation using Spiceworks
 This project documents a simulation of IT help desk workflows using the **Spiceworks Help Desk** ticketing system. The lab focuses on ticket creation, troubleshooting, documentation, and escalation practices.
 
 ---
